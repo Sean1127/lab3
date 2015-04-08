@@ -24,4 +24,4 @@ B.
 When n, the numbers needed to be sorted, becomes bigger, n^2 grows large extrememly fast.
 However, n logn will not increse as fast as n^2. Though logn -> Inf as n -> Inf,
 because the bigger the n gets, the speed of logn, which is 1/nln(10), will get really small, thus 
-the time
+the time required O(n logn) is significantly less than O(n^2)
