@@ -19,7 +19,7 @@ B.
 0.05 vs 128.15
 
 1000000:
-0.54 vs .
+0.54 vs (unable to reach)
 
 When n, the numbers needed to be sorted, becomes bigger, n^2 grows large extrememly fast.
 However, n logn will not increse as fast as n^2. Though logn -> Inf as n -> Inf,
